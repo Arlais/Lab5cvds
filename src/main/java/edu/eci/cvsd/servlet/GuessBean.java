@@ -1,11 +1,7 @@
 package edu.eci.cvsd.servlet;
-import java.util.ArrayList;
 import java.util.Random;
-import javax.faces.bean.*;
 import javax.faces.bean.ManagedBean;
 
-
-import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.context.SessionScoped;
 
 @ManagedBean(name = "GuessBean")
